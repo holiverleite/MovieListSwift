@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MoviesSwift
+
+  Created by Haroldo Leite on 06/06/19.
+  Copyright © 2019 holiverleite. All rights reserved.
+*/
+
+"main_title" = "Best TMDB Films";
+"revenue_value" = "Revenue: %@";
+"runtime_value" = "Runtime: %@ Minutes";
+"languages" = "Languages: %@";
+"original_title" = "Original title: %@";
+"original_language" = "Original language: %@";
+"launch_year" = "Launch Year: %@";
+"genre_movie" = "Genre: %@";
+
